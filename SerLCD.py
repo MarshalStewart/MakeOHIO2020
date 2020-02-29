@@ -21,7 +21,7 @@ class SerLCD:
   LINES2 = 6
 
   # Extended LCD Commands
-  CLEARDISPLAY = 01
+  CLEARDISPLAY = 1
   MOVERIGHT = 20
   MOVELEFT = 16
   SCROLLRIGHT = 28
